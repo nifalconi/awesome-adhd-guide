@@ -1,6 +1,6 @@
-# awesome-adhd-guided
+# awesome-adhd-guided (WIP)
 
-Please do not use this as medical advice; this guide aims to be a concise practical guide for ADHD people. Expect the ideas here to be obvious and their applications simple. You will not find Whys here but only Hows. 
+Please do not use this as medical advice; this guide aims to be a concise practical guide for ADHD people. Expect the ideas here to be obvious and their applications simple. You will not find Whys here but only How-tos.
 
 ----
 
@@ -30,35 +30,46 @@ Completely busted. That's what meditation is. Use headspace to start. Excellent 
 ## Food
 You need to avoid as much as you can garbage food. That's all. You don't need to be super healthy, just no garbage food. 
 
+
+# How to work? (WIP)
+
+- Focus time / Meeting time
+- Slack
+- [Vscode shortcuts](https://learn.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2022)
+  
+# Setting up your home workspace
+
 # Problems with people in the workplace
 
-Sadly, in the workplace, people will not usually remember the things you did right, but the times you failed. That is a very pessimistic thing to say, but true. 
+Sadly, in the workplace, people will not usually remember the things you did right, but the times you failed. That is a very pessimistic thing to say, but true.
 
 **Luckily 90% of the problems you'll probably have will result only from 3 things.**
 
-## You are not very good at estimating tasks, and people get mad about it. 
+## You are not very good at estimating tasks, and people get mad about it.
 
 As a rule of thumb. If you think something will take you a set amount of time. Increase it.
 
-If the task is simple:  increase it by 50%
-If the task is medium: increase it by 100%
-If the task is complex: don't take it. No chance. Divide it into medium or simple tasks.
+- If the task is simple: increase it by 50%
+- If the task is medium: increase it by 100%
+- If the task is complex: don't take it. No chance. Divide it into medium or simple tasks.
 
-If the task is stupidly small: increase it by 300%. 
+If the task is stupidly small: increase it by 300%.
 
-Why the last one? For ADHDrs starting a task has an enormous overhead and produces context switching, and it really is like that. 
+Why the last one? For ADHDrs starting a task has an enormous overhead and produces context switching, and it really is like that.
 
 If you barely think you won't be able to finish a deadline, say it as soon as possible and give them an overstimate for a new deadline. People are always understanding and appreciative of this quick communication. And if they don't, you need to find a better workplace. 
 
 ## You don't say no
 
-People will always tell you if you could also do this extra stuff when you're already full of things to do. This is especially bad when the new task is urgent or has yet to be estimated. 
+People will always tell you if you could also do this extra stuff when you're already full of things to do. This is especially bad when the new task is urgent or has yet to be estimated.
 
-When in such a situation, play this reverse Uno card: 
-I'm already full of things to do. Something I could do is remove this set of tasks in this sprint. There's no other way I could guarantee that task to be done in this sprint. 
+When in such a situation, play this reverse Uno card:
+
+> I'm already full of things to do. __Something I could do is remove this set of tasks in this sprint.__ There's no other way I could guarantee that task to be done in this sprint.
+
 This is very professional behavior. Failing to deliver is more painful than not taking on extra tasks in the first place. If they get mad. So be it. 
 
-Just be aware. You'll think you can do it anyway (and you probably can). Don't trick yourself: being consistently reliable is more critical than achieving miracles. 
+Just be aware. You'll think you can do it anyway (and you probably can). Don't trick yourself: __being consistently reliable is more critical than achieving miracles.__ 
 
 
 ## People think you're lazy (WIP).
@@ -66,22 +77,7 @@ Just be aware. You'll think you can do it anyway (and you probably can). Don't t
 You'll come across as intelligent and creative, and people can misplace ADHD's struggles for laziness and lack of care. 
 
 
-# Control your enviroment
 
-
-# Workig is hard. 
-
-Sadly, on the workplace people will not usually remeber the things you did right but the times you failed. 
-
-## Your limitations.
-
-You are probably not very good 
-
-## Deadlines
-
-You need deadlines in your life. Why? It doesn't matter. 
-
-I'm not 
 
 ## Medications
 
