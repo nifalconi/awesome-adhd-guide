@@ -36,6 +36,7 @@ You need to avoid as much as you can garbage food. That's all. You don't need to
 - Focus time / Meeting time
 - Slack
 - [Vscode shortcuts](https://learn.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2022)
+- Pomodoro technique
   
 # Setting up your home workspace
 
