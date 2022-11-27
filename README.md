@@ -137,4 +137,38 @@ It will be a game changer.
 ## Social media (WIP)
 Just don't
 
+## Programming is an objective driven career. Abuse that. 
+
+Programming is objective-driven and requires creative thought. This is heaven for ADHDrs if managed correctly. Primarily for one reason: you don't need to work long hours.
+
+Long working hours suck for ADHDrs. If you get into hyper-focus, you'll end up exhausted. And being a weary programmer is extremely dangerous. Programming requires intense concentration, and mistakes are expensive. 
+
+Luckily, ADHDrs are outstanding workers that sometimes can achieve more in less time. Sometimes you'll even be stuck for days with no results just to come up with an idea doing something unrelated. Why not challenge yourself to do that daily? 
+
+If you can do your daily tasks instead of in 8 hours in 5. Then take the rest of the day off. The more well-rested you're, the more significant the chances you'll achieve something similar.
+
+You're a programmer. Nobody, except some boomer bosses, cares if you work fewer hours. They care about you delivering quality programs before a deadline.
+
+Obviously, if you finish a task super early (less than 4 hours), I would recommend you do the following:
+
+- Check the company's documentation and try to improve. Everybody will love you.
+- Study something related to your work. This will have a compound effect. The more you know, the earlier you'll finish your tasks, the more free time to study you'll have, the more...
+- Increase test coverage.
+- Plan a task in the backlog.
+- Help somebody else
+- Improve curent processes. 
+
+You'll notice how people will love you because you go above and beyond for the company. But honestly, you're just working smartly.
+
+Refrain from challenging yourself by taking more tasks per sprint but instead, try to finish them early. Take active care of your body and mind, and be sharp and continue. You can always do more if you really want anyway. 
+
+
+
+
+
+
+
+
+
+
 ## ADHD Tax
