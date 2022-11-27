@@ -33,12 +33,48 @@ You need to avoid as much as you can garbage food. That's all. You don't need to
 
 # How to work? (WIP)
 
-- Focus time / Meeting time
+### Focus time / Meeting time
+
+Having meetings is unavoidable. But it can be worse. Let's imagine you have a day like this:
+
+![Meetings Hell](https://i.postimg.cc/FsDy1cXW/Screenshot-2022-11-26-at-17-49-54.png)
+
+
+
+Technically, half of your time was occupied in meetings, not all of it. But you and I know It's impossible to get anything substantial done on those pesky windows of time.
+
+The solution is simple. Reserve for yourself Focus Time when people cannot schedule a meeting. For this, you should put reasonably big focus time (2 to 4 hours) in your calendar for your more productive hours. Always name them as something as "Deep work. Contact only if necessary."
+
+![Image of Google Calendar with Focus Time on it ](https://blogger.googleusercontent.com/img/a/AVvXsEg1jvynhmdQaEQ5FrlrfmqyjPuGjpPqg2WnPZl-Oy4DRpQL89HaJts-uhq88BOU2AsKzGIiYNMbgfccKKUlhif3tjYZPKhmOMiRkcFdc8_1t9F9692aZ9HTftsb0djfersWtP1DppX-6QomSlztwDLLBUZLVseHNuTSkmtiFgOaL84uWlT8-5FATbka=w640-h572)
+
+If they contact you, tell them you are getting something very important done and if it can wait. You may believe your work is less important than the meeting. But trust me, the things you do are important.
+
+Obviously, don't be an asshole. Emergency and important meetings are still typical. But defend yourself from the nonessential ones. 
+
+If you work remotely, [adding to the calendar your working hours](https://support.google.com/a/users/answer/9308669?hl=en) is essential. Also solves timezones problems.
+
+
+## Slack (WIP)
+
+- Focus time. :typingcat:
+- Check it often. Every 20 minutes but no more than that. 
+
+
+
+How 
+
 - Slack
 - [Vscode shortcuts](https://learn.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio?view=vs-2022)
-- Pomodoro technique
+- Pomodoro **technique**
+
+# Don'ts 
+
+## Meetings Hell 
+
+Having meetings is unavoildable. 
+
   
-# Setting up your home workspace
+# Setting up your home workspace (WIP)
 
 # Problems with people in the workplace
 
@@ -80,7 +116,13 @@ You'll come across as intelligent and creative, and people can misplace ADHD's s
 
 
 
-## Medications
+## Misc (WIP)
+- Go for a walk
+- Talking notes in meetings
+- Todo list
+
+
+## Medications (WIP)
 
 It will be a game changer.
 
