@@ -33,6 +33,8 @@ You need to avoid as much as you can garbage food. That's all. You don't need to
 
 # How to work? (WIP)
 
+## Do's
+
 ### Focus time / Meeting time
 
 Having meetings is unavoidable. But it can be worse. Let's imagine you have a day like this:
@@ -114,6 +116,12 @@ Just be aware. You'll think you can do it anyway (and you probably can). Don't t
 You'll come across as intelligent and creative, and people can misplace ADHD's struggles for laziness and lack of care. 
 
 
+# How to meetings (WIP)
+
+- Keep them short. 15 min. 
+- Ask for material to get before the meeting. Looks good and is professional. 
+- taking notes
+- Leave when you're not essential to the conversation 
 
 
 ## Misc (WIP)
@@ -125,5 +133,8 @@ You'll come across as intelligent and creative, and people can misplace ADHD's s
 ## Medications (WIP)
 
 It will be a game changer.
+
+## Social media (WIP)
+Just don't
 
 ## ADHD Tax
