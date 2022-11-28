@@ -62,6 +62,26 @@ If you work remotely, [adding to the calendar your working hours](https://suppor
 - Check it often. Every 20 minutes but no more than that. 
 
 
+## Distractions (WIP)
+
+### Micro Distractions: The biggest offender
+
+ADHRs brains go in bit of a hurry. You suddenly have an idea and if you didn't write it then it's gone. After that you'll get ditracted and you would have lost your train of thought. 
+
+An excellent way to improve this is to just use the IDLE better and write faster. This solution is simple and effective.
+
+Writting:
+- Know your keyboard and write fast. Learn mecanography. Free options are https://thetypingcat.com/ and https://www.typing.com/. 
+- Learn VScode commands: 
+- Learn VIM or something similar. Haven't tried it yet. 
+
+
+#### 
+
+
+###
+
+
 
 How 
 
