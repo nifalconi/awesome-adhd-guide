@@ -2,6 +2,10 @@
 
 Please do not use this as medical advice; this guide aims to be a concise practical guide for ADHD people. Expect the ideas here to be obvious and their applications simple. You will not find Whys here but only How-tos.
 
+Content:
+- [Problems with people in the workplace](#Problems-with-people-in-the-workplace)
+- [Programming is an objective driven career. Abuse that.](#Programming-is-an-objective-driven-career.-Abuse-that.-)
+
 ----
 
 # Improving your passive skills
