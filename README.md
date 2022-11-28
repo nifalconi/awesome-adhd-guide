@@ -4,7 +4,7 @@ Please do not use this as medical advice; this guide aims to be a concise practi
 
 Content:
 - [Problems with people in the workplace](#Problems-with-people-in-the-workplace)
-- [Programming is an objective driven career. Abuse that.](#Programming-is-an-objective-driven-career.-Abuse-that.-)
+- [Programming is an objective driven career. Abuse that.](programming-is-an-objective-driven-career-abuse-that)
 
 ----
 
