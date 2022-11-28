@@ -41,8 +41,6 @@ Having meetings is unavoidable. But it can be worse. Let's imagine you have a da
 
 ![Meetings Hell](https://i.postimg.cc/FsDy1cXW/Screenshot-2022-11-26-at-17-49-54.png)
 
-
-
 Technically, half of your time was occupied in meetings, not all of it. But you and I know It's impossible to get anything substantial done on those pesky windows of time.
 
 The solution is simple. Reserve for yourself Focus Time when people cannot schedule a meeting. For this, you should put reasonably big focus time (2 to 4 hours) in your calendar for your more productive hours. Always name them as something as "Deep work. Contact only if necessary."
@@ -58,8 +56,11 @@ If you work remotely, [adding to the calendar your working hours](https://suppor
 
 ## Slack (WIP)
 
-- Focus time. :typingcat:
-- Check it often. Every 20 minutes but no more than that. 
+- Focus time: When in deep work, in the slack status put something like "deepwork" and an emoji that shows it.
+- Don't try to be omniprecience: You don't need to be there all the time. In your deepwork don't try to be there all the time. Check it every so often but don't be there. Asyncronous communitation is key. WIP. Write it from a perpective of asyncronous programming.
+- No hello: https://www.nohello.com/
+
+
 
 
 ## Distractions (WIP)
@@ -108,13 +109,11 @@ Sadly, in the workplace, people will not usually remember the things you did rig
 
 As a rule of thumb. If you think something will take you a set amount of time. Increase it.
 
-- If the task is simple: increase it by 50%
-- If the task is medium: increase it by 100%
+- If the task is simple: increase it by 30%
+- If the task is medium: increase it by 60%
 - If the task is complex: don't take it. No chance. Divide it into medium or simple tasks.
 
-If the task is stupidly small: increase it by 300%.
-
-Why the last one? For ADHDrs starting a task has an enormous overhead and produces context switching, and it really is like that.
+Why the last one? For ADHDrs starting a task has an enormous overhead and produces context switching, and it really is like that. 
 
 If you barely think you won't be able to finish a deadline, say it as soon as possible and give them an overstimate for a new deadline. People are always understanding and appreciative of this quick communication. And if they don't, you need to find a better workplace. 
 
