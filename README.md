@@ -58,9 +58,7 @@ If you work remotely, [adding to the calendar your working hours](https://suppor
 
 - Focus time: When in deep work, in the slack status put something like "deepwork" and an emoji that shows it.
 - Don't try to be omniprecience: You don't need to be there all the time. In your deepwork don't try to be there all the time. Check it every so often but don't be there. Asyncronous communitation is key. WIP. Write it from a perpective of asyncronous programming.
-- No hello: https://www.nohello.com/
-
-
+- Asking for help: There are no stupid questions, only stupids who don't make them. Asking for help is stressful. I recommend using the not hello template. https://www.nohello.com/
 
 
 ## Distractions (WIP)
@@ -75,6 +73,12 @@ Writting:
 - Know your keyboard and write fast. Learn mecanography. Free options are https://thetypingcat.com/ and https://www.typing.com/. 
 - Learn VScode commands: 
 - Learn VIM or something similar. Haven't tried it yet. 
+
+### Your Workplace
+- Minimalistic
+- Redundant
+- Everything you need at hand
+- Sadly, you'll need to put money into this. 
 
 
 #### 
