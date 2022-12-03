@@ -191,11 +191,33 @@ Refrain from challenging yourself by taking more tasks per sprint but instead, t
 
 
 
+# You can do stuff, but you just can't 
+
+Starting a task can be extremely challenging. It doesn't matter the difficulty of the task the hell is in starting. If you ever feel paralized, and you cannot start there no direct answer. The first step is recognizing that you are in that situation (which on itself can be very challenging). After that need to break that cycle. 
+
+The easist way to do it is with: 
+- Meditating
+- Doing some sport (do some planks or abs or anything) 
+- Just start the task. 
+- Start the day working with somebody else. 
+
+Starting the task is vicerally painful to me. I suffer real pain but it the thing that works the quickest. I never do it. I prefer to start the day wokring with somebody else. 
 
 
+# I cannot concentrate when starting to program
+
+There is a trick for this. Doing something very boring forces your brain to adjust and makes the next task easier to start. I created a trick for this. I named it the "O method". Just look at the letter O in your keyboard, and concentrate on it for a minute. A whole minute. As you do it breath in and out slowly. Do it for a minute. Literally use a timer for it. Try not to blink. 
+
+After doing that starting any task will be easier. If you don't believe me try it out. 
+
+This method is not bullshit. It actually works. Looking at the O in the keyboard is a memotecnic for you to rememeber. 
 
 
+# Starting is stressful, make it easier
 
+Do a list of the things you need to do for the next day. Always. 
 
 
 ## ADHD Tax
+
+Redundancy in necessary in different spaces. 
