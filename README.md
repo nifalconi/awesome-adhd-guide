@@ -221,3 +221,5 @@ Do a list of the things you need to do for the next day. Always.
 ## ADHD Tax
 
 Redundancy in necessary in different spaces. 
+
+## Resources (WIP)
