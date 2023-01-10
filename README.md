@@ -223,3 +223,5 @@ Do a list of the things you need to do for the next day. Always.
 Redundancy in necessary in different spaces. 
 
 ## Resources (WIP)
+
+# add online resources couches that are not a scam 
