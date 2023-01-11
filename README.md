@@ -225,3 +225,12 @@ Redundancy in necessary in different spaces.
 ## Resources (WIP)
 
 # add online resources couches that are not a scam 
+
+https://www.reddit.com/r/ADHD_Programmers/
+
+
+New topics: 
+
+- Time blindness 
+
+
