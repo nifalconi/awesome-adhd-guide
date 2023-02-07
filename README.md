@@ -234,3 +234,10 @@ New topics:
 - Time blindness 
 
 
+# Videos
+
+- Sadly, this videos do not have a lot of produced value but they are the most usefuls I've found online. They are scientific. Short. And to the point.
+- https://www.youtube.com/watch?v=FN8uun_1N54&list=FLec7G3wzZ12DHhEjVMlfzfA&index=113&t=123s
+- 
+-       https://www.youtube.com/@AttentionTalkVideo/videos
+
