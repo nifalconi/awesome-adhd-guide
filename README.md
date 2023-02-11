@@ -240,4 +240,5 @@ New topics:
 - https://www.youtube.com/watch?v=FN8uun_1N54&list=FLec7G3wzZ12DHhEjVMlfzfA&index=113&t=123s
 - 
 -       https://www.youtube.com/@AttentionTalkVideo/videos
+-       https://youtu.be/_tpB-B8BXk0
 
